@@ -1,5 +1,5 @@
 # 💫 About Me:
-Freelance Web Developer
+I am Web Developer, working on frontend and backend as a freelancer. In free time I'm making mods for games like minecraft or fivem.
 
 
 # 💻 Tech Stack:
