@@ -1,6 +1,6 @@
 # ABOUT
 I am polish Web Developer, working on frontend and backend as a freelancer. In the free time I'm making mods for games like minecraft or fivem.<br> <br>
-Personal Website: [Click to open](https://www.stevkudev.pl)<br>
+Personal Website: [Click to open](https://www.mpawlak.dev)<br>
 YouTube: [Click to open](https://www.youtube.com/@stevku1)<br>
 LinkedIn: [Click to open](https://www.linkedin.com/in/miko%C5%82aj-pawlak-086907364/)<br>
 Discord User: [Click to open](https://discordapp.com/users/784402034451415050)<br>
