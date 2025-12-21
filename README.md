@@ -8,7 +8,7 @@ Po godzinach dłubię przy modach do Minecrafta — bo czasem najlepiej odpoczyw
 
 ---
 
-# 🚀 Stack technologiczny
+# 🚀 TechStack
 
 ## 🧠 Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,13 +18,9 @@ Po godzinach dłubię przy modach do Minecrafta — bo czasem najlepiej odpoczyw
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
----
-
 ## 📂 Bazy danych
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
 
 ## 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,8 +30,6 @@ Po godzinach dłubię przy modach do Minecrafta — bo czasem najlepiej odpoczyw
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Mantine](https://img.shields.io/badge/Mantine-%230865F7.svg?style=for-the-badge&logo=mantine&logoColor=white)
-
----
 
 ## 🛠️ Narzędzia & ekosystem
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
