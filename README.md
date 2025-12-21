@@ -2,7 +2,7 @@
 
 Fullstack Web Developer z podejściem „zróbmy to dobrze, ale bez zbędnej filozofii”.  
 Łączę doświadczenie backendowca, który lubi mieć wszystko pod kontrolą, z luzem freelancera, który nie boi się nietypowych projektów i szybkich iteracji.  
-Po godzinach dłubię przy modach do Minecrafta — bo czasem najlepiej odpoczywa się przy kodzie, który nie musi przechodzić code review.
+Po godzinach dłubię przy pluginach do Minecrafta — bo czasem najlepiej odpoczywa się przy kodzie, który nie musi przechodzić code review.
 
 🔗 **Strona internetowa:** https://www.mpawlak.dev
 
@@ -50,7 +50,7 @@ Po godzinach dłubię przy modach do Minecrafta — bo czasem najlepiej odpoczyw
 
 # 🎮 Projekty poboczne
 
-- Mody do Minecrafta (własne systemy, mechaniki, integracje).  
+- Pluginy do Minecrafta (własne systemy, mechaniki, integracje).  
 - Backendowe narzędzia do serwerów gier.  
 - Eksperymenty z architekturą, optymalizacją i czystymi strukturami projektów.
 
