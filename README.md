@@ -5,6 +5,7 @@ Fullstack Web Developer z podejściem „zróbmy to dobrze, ale bez zbędnej fil
 Po godzinach dłubię przy pluginach do Minecrafta — bo czasem najlepiej odpoczywa się przy kodzie, który nie musi przechodzić code review.
 
 🔗 **Strona internetowa:** https://www.mpawlak.dev
+🔗 **LinkedIn:** https://www.linkedin.com/in/miko%C5%82aj-pawlak-086907364/
 
 ---
 
