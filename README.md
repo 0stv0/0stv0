@@ -1,9 +1,9 @@
-# 👋 Cześć, jestem Mikołaj
+# 👋 Hi, I’m Mikołaj
 
-Fullstack Web Developer z podejściem „zróbmy to dobrze, ale bez zbędnej filozofii”.  
-Łączę doświadczenie backendowca, który lubi mieć wszystko pod kontrolą, z luzem freelancera, który nie boi się nietypowych projektów i szybkich iteracji.  
+A Fullstack Web Developer with a “let’s do it right, without overthinking it” mindset.  
+I combine the precision of a backend engineer who likes having everything under control with the flexibility of a freelancer who’s not afraid of unusual projects and fast iterations.
 
-- 🔗 **Strona internetowa:** https://www.mpawlak.dev
+- 🔗 **Website:** https://www.mpawlak.dev  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/miko%C5%82aj-pawlak-086907364/
 
 ---
@@ -16,9 +16,10 @@ Fullstack Web Developer z podejściem „zróbmy to dobrze, ale bez zbędnej fil
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-## 📂 Bazy danych
+## 📂 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +30,8 @@ Fullstack Web Developer z podejściem „zróbmy to dobrze, ale bez zbędnej fil
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Mantine](https://img.shields.io/badge/Mantine-%230865F7.svg?style=for-the-badge&logo=mantine&logoColor=white)
 
-## 🛠️ Narzędzia & ekosystem
+## 🛠️ Tools & Ecosystem
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![LuaRocks](https://img.shields.io/badge/LuaRocks-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
