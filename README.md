@@ -2,15 +2,11 @@
 
 Fullstack Web Developer z podejściem „zróbmy to dobrze, ale bez zbędnej filozofii”.  
 Łączę doświadczenie backendowca, który lubi mieć wszystko pod kontrolą, z luzem freelancera, który nie boi się nietypowych projektów i szybkich iteracji.  
-Po godzinach dłubię przy pluginach do Minecrafta — bo czasem najlepiej odpoczywa się przy kodzie, który nie musi przechodzić code review.
 
-🔗 **Strona internetowa:** https://www.mpawlak.dev
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/miko%C5%82aj-pawlak-086907364/
+- 🔗 **Strona internetowa:** https://www.mpawlak.dev
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/miko%C5%82aj-pawlak-086907364/
 
 ---
-
-# 🚀 TechStack
 
 ## 🧠 Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,27 +33,3 @@ Po godzinach dłubię przy pluginach do Minecrafta — bo czasem najlepiej odpoc
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-# 🧩 Jak pracuję
-
-- Projektuję **modularne backendy**, które nie przeciekają zasobami i nie wymagają rytuałów przy wdrożeniu.  
-- Tworzę **API bez nadmiarowej magii** — proste, przewidywalne i łatwe do integracji.  
-- Na froncie stawiam na **szybkość i przejrzystość**, a nie na 15 warstw abstrakcji.  
-- Integruję **płatności, zewnętrzne API i systemy sesji** w sposób minimalistyczny i bezpieczny.  
-- Dbam o **czytelny kod**, który da się debugować bez medytacji i świeczek.
-
----
-
-# 🎮 Projekty poboczne
-
-- Pluginy do Minecrafta (własne systemy, mechaniki, integracje).  
-- Backendowe narzędzia do serwerów gier.  
-- Eksperymenty z architekturą, optymalizacją i czystymi strukturami projektów.
-
----
-
-# 📈 Cel
-
-Budować projekty, które są szybkie, stabilne i przyjemne w utrzymaniu — bez korpo‑overengineeringu i bez kompromisów w jakości.
