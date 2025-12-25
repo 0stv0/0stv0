@@ -3,7 +3,7 @@
 A Fullstack Web Developer with a “let’s do it right, without overthinking it” mindset.  
 I combine the precision of a backend engineer who likes having everything under control with the flexibility of a freelancer who’s not afraid of unusual projects and fast iterations.
 
-- 🔗 **Website:** https://www.mpawlak.dev  
+- 🔗 **[PL] Portfolio:** https://www.mpawlak.dev  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/miko%C5%82aj-pawlak-086907364/
 
 ---
