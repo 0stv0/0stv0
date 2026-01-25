@@ -14,7 +14,7 @@ I combine the precision of a backend engineer who likes having everything under 
 It focuses on clarity, predictability, and full control over your project structure — without forcing heavy conventions or unnecessary abstractions.
 
 - Minimal, fast, and dependency‑free by design  
-- Directory‑based routing with dynamic parameters  
+- Directory‑based routing
 - Clean separation between core, CLI, and extensions  
 - Built for developers who want to craft their own ecosystem of tools
 
