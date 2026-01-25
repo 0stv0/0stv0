@@ -8,6 +8,20 @@ I combine the precision of a backend engineer who likes having everything under 
 
 ---
 
+## 🚀 My Side Project — Arcend Framework
+
+**Arcend** is a lightweight, modular framework for building REST APIs in Node.js/TypeScript.  
+It focuses on clarity, predictability, and full control over your project structure — without forcing heavy conventions or unnecessary abstractions.
+
+- Minimal, fast, and dependency‑free by design  
+- Directory‑based routing with dynamic parameters  
+- Clean separation between core, CLI, and extensions  
+- Built for developers who want to craft their own ecosystem of tools
+
+🔗 **GitHub:** https://github.com/ArcendFramework
+
+---
+
 ## 🧠 Backend
 ![Java](https://img.shields.io/badge/Java-2b2b2b.svg?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2b2b2b.svg?style=for-the-badge&logo=springboot&logoColor=ffffff)
