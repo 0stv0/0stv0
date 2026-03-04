@@ -1,27 +1,5 @@
 # 👋 Hi, I’m Mikołaj
 
-A Fullstack Web Developer with a “let’s do it right, without overthinking it” mindset.  
-I combine the precision of a backend engineer who likes having everything under control with the flexibility of a freelancer who’s not afraid of unusual projects and fast iterations.
-
-- 🔗 **[PL] Portfolio:** https://www.mpawlak.dev  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/miko%C5%82aj-pawlak-086907364/
-
----
-
-## 🚀 My Side Project — Arcend Framework
-
-**Arcend** is a lightweight, modular framework for building REST APIs in Node.js/TypeScript.  
-It focuses on clarity, predictability, and full control over your project structure — without forcing heavy conventions or unnecessary abstractions.
-
-- Minimal, fast, and dependency‑free by design  
-- Directory‑based routing
-- Clean separation between core, CLI, and extensions  
-- Built for developers who want to craft their own ecosystem of tools
-
-🔗 **GitHub:** https://github.com/ArcendFramework
-
----
-
 ## 🧠 Backend
 ![Java](https://img.shields.io/badge/Java-2b2b2b.svg?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2b2b2b.svg?style=for-the-badge&logo=springboot&logoColor=ffffff)
@@ -46,7 +24,6 @@ It focuses on clarity, predictability, and full control over your project struct
 ![Next.js](https://img.shields.io/badge/Next.js-2b2b2b.svg?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-2b2b2b.svg?style=for-the-badge&logo=vite&logoColor=ffffff)
 ![Mantine](https://img.shields.io/badge/Mantine-2b2b2b.svg?style=for-the-badge&logo=mantine&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/Vue.js-2b2b2b.svg?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
 
 ## 🛠️ Tools & Ecosystem
 ![NPM](https://img.shields.io/badge/NPM-2b2b2b.svg?style=for-the-badge&logo=npm&logoColor=ffffff)
