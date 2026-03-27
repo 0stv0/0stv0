@@ -8,6 +8,7 @@
 ![Express](https://img.shields.io/badge/Express-ffffff.svg?style=for-the-badge&logo=express&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=for-the-badge&logo=typescript&logoColor=000000)
 ![Go](https://img.shields.io/badge/Go-ffffff.svg?style=for-the-badge&logo=go&logoColor=000000)
+![Fiber](https://img.shields.io/badge/Fiber-ffffff.svg?style=for-the-badge&logo=gofiber&logoColor=000000)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff.svg?style=for-the-badge&logo=mysql&logoColor=000000)
